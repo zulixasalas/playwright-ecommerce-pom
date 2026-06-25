@@ -21,5 +21,6 @@ La suite incluye los siguientes escenarios de prueba:
 4. **Agregar al Carrito:** Selección e inclusión de productos de forma correcta.
 5. **Flujo E2E Completo:** Simulación real desde el inicio de sesión, selección de productos, llenado de formulario de envío y confirmación final de compra.
 
+🔗 **[Ver el Reporte de Pruebas Interactivo en Vivo Aquí](https://zulixasalas.github.io/playwright-ecommerce-pom/playwright-report/)**
 ---
 *Proyecto creado por Zulixa Salas - Ingeniera de QA Automation en Crecimiento.*
