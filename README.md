@@ -22,4 +22,4 @@ La suite incluye los siguientes escenarios de prueba:
 5. **Flujo E2E Completo:** Simulación real desde el inicio de sesión, selección de productos, llenado de formulario de envío y confirmación final de compra.
 
 ---
-*Proyecto creado por Zulixa Salas - Ingeniero de QA Automation en Crecimiento.*
+*Proyecto creado por Zulixa Salas - Ingeniera de QA Automation en Crecimiento.*
